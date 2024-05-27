@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\obj\Debug\net8.0\Lesson2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\obj\Debug\net8.0\Lesson2.1.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\obj\Debug\net8.0\Lesson2.1.AssemblyInfo.cs
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\obj\Debug\net8.0\Lesson2.1.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\obj\Debug\net8.0\Lesson2.1.sourcelink.json
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\bin\Debug\net8.0\Lesson2.1.exe
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\bin\Debug\net8.0\Lesson2.1.deps.json
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\bin\Debug\net8.0\Lesson2.1.runtimeconfig.json
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\bin\Debug\net8.0\Lesson2.1.dll
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\bin\Debug\net8.0\Lesson2.1.pdb
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\obj\Debug\net8.0\Lesson2.1.dll
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\obj\Debug\net8.0\refint\Lesson2.1.dll
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\obj\Debug\net8.0\Lesson2.1.pdb
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\obj\Debug\net8.0\Lesson2.1.genruntimeconfig.cache
+C:\Users\home\Desktop\C#\Lesson2\Lesson2.1\obj\Debug\net8.0\ref\Lesson2.1.dll
